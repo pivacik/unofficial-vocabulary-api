@@ -1,0 +1,27 @@
+{
+  "name": "vocabulary-api",
+  "version": "1.0.0",
+  "description": "unofficial vocabulary.com api",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "node-html-parser": "^4.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pivacik/unofficial-vocabulary-api.git"
+  },
+  "author": "pivacik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pivacik/unofficial-vocabulary-api/issues"
+  },
+  "homepage": "https://github.com/pivacik/unofficial-vocabulary-api#readme"
+}
